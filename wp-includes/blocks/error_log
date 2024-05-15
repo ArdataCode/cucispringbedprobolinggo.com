@@ -1,0 +1,4 @@
+[28-Jan-2024 12:37:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/cucispringbedprobolinggo.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/cucispringbedprobolinggo.com/wp-includes/blocks/index.php on line 8
